@@ -1,0 +1,1 @@
+/dev/block/platform/13200000.ufs/by-name/persist     /mnt/vendor/persist     f2fs     noatime,nosuid,nodev,sync     wait,check,formattable
