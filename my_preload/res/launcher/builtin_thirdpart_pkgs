@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <version>20230921</version>
+    <p att="in.mohalla.video" />
+    <p att="in.mohalla.sharechat" />
+    <p att="in.amazon.mShop.android.shopping" />
+    <p att="com.amazon.mShop.android.shopping" />
+    <p att="com.spotify.music" />
+    <p att="com.linkedin.android" />
+    <p att="com.booking" />
+    <p att="com.agoda.mobile.consumer" />
+    <p att="com.kwai.video" />
+    <p att="com.byjus.thelearningapp" />
+    <p att="com.cardfeed.video_public" />
+    <p att="com.flipkart.android" />
+    <p att="com.truecaller" />
+    <p att="com.igg.android.lordsmobile" />
+    <p att="com.tokopedia.tkpd" />
+    <p att="com.miHoYo.GenshinImpact" />
+    <p att="com.miHoYo.bh3global" />
+    <p att="com.miHoYo.bh3oversea" />
+    <p att="com.miHoYo.bh3tw" />
+    <p att="com.miHoYo.bh3rdJP" />
+    <p att="ru.ozon.app.android" />
+    <p att="ru.yandex.yandexmaps" />
+    <p att="ctrip.english" />
+    <p att="app.source.getcontact" />
+</config>
