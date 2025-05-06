@@ -1,0 +1,14 @@
+# caiman-user 15 BP1A.250505.005.A1 13277748 release-keys
+- manufacturer: google
+- platform: zumapro
+- codename: caiman
+- flavor: caiman-user
+- release: 15
+- id: BP1A.250505.005.A1
+- incremental: 13277748
+- tags: release-keys
+- fingerprint: google/caiman/caiman:15/BP1A.250505.005.A1/13277748:user/release-keys
+- is_ab: true
+- brand: google
+- branch: caiman-user-15-BP1A.250505.005.A1-13277748-release-keys
+- repo: google_caiman_dump
